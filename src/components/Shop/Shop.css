@@ -1,0 +1,16 @@
+.s-c{
+    display: flex;
+    
+}
+.product-container{
+    width: 70%;
+    margin-left: 20px;
+    margin-right: 5px;
+    text-decoration: none;
+    border-right: 2px solid rgb(17, 11, 11) ;
+
+}
+.cart-container{
+    width: 30%;
+
+}
